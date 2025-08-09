@@ -1,4 +1,4 @@
-# 明日から本気出す - TODOアプリ
+# いつかやるよ、きっと - TODOアプリ
 
 「[明日から本気出す (by Pistatium様)](https://www.amazon.co.jp/Pistatium-%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%99/dp/B017UHX0LQ)」にインスパイアされた、タスクを先延ばしにしながら管理できるAndroid TODOアプリです。
 
