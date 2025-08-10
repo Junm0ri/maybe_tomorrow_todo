@@ -2,7 +2,23 @@
 
 「[明日から本気出す (by Pistatium様)](https://www.amazon.co.jp/Pistatium-%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%99/dp/B017UHX0LQ)」にインスパイアされた、タスクを先延ばしにしながら管理できるAndroid TODOアプリです。
 
-愛用していたこのアプリが非公開になってしまったようなので、「Claude Codeでサクッと同じような体験のアプリを作れないか？」の検証を含めてやってみた結果がこのリポジトリです。
+愛用していたこのアプリが非公開になってしまったようなので、「Kiro / Claude Codeでサクッと同じような体験のアプリを作れないか？」の検証を含めてやってみた結果がこのリポジトリです。
+
+## 動作画面
+
+#### トップ画面
+
+<img width="997" height="1039" alt="image" src="https://github.com/user-attachments/assets/aaa39507-e94a-4681-8610-fad70ea1f1f2" />
+
+
+#### タスク作成画面
+
+<img width="999" height="1040" alt="image" src="https://github.com/user-attachments/assets/c047e37b-ef64-4baf-a83b-9fc34e2172d7" />
+
+#### タスク追加後
+
+<img width="999" height="1038" alt="image" src="https://github.com/user-attachments/assets/61572d03-7186-4e35-ac79-42b7d5141329" />
+
 
 ## 概要
 
